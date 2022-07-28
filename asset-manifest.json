@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/letra-website/static/css/main.a05980a0.css",
-    "main.js": "/letra-website/static/js/main.a0b033de.js",
+    "main.css": "/letra-website/static/css/main.ef486e3f.css",
+    "main.js": "/letra-website/static/js/main.7916c341.js",
     "static/js/787.a6b4568d.chunk.js": "/letra-website/static/js/787.a6b4568d.chunk.js",
     "index.html": "/letra-website/index.html",
-    "main.a05980a0.css.map": "/letra-website/static/css/main.a05980a0.css.map",
-    "main.a0b033de.js.map": "/letra-website/static/js/main.a0b033de.js.map",
+    "main.ef486e3f.css.map": "/letra-website/static/css/main.ef486e3f.css.map",
+    "main.7916c341.js.map": "/letra-website/static/js/main.7916c341.js.map",
     "787.a6b4568d.chunk.js.map": "/letra-website/static/js/787.a6b4568d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a05980a0.css",
-    "static/js/main.a0b033de.js"
+    "static/css/main.ef486e3f.css",
+    "static/js/main.7916c341.js"
   ]
 }
