@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/letra-website/static/css/main.6ed1312e.css",
-    "main.js": "/letra-website/static/js/main.a0b033de.js",
-    "static/js/787.a6b4568d.chunk.js": "/letra-website/static/js/787.a6b4568d.chunk.js",
-    "index.html": "/letra-website/index.html",
-    "main.6ed1312e.css.map": "/letra-website/static/css/main.6ed1312e.css.map",
-    "main.a0b033de.js.map": "/letra-website/static/js/main.a0b033de.js.map",
-    "787.a6b4568d.chunk.js.map": "/letra-website/static/js/787.a6b4568d.chunk.js.map"
+    "main.css": "/letra/static/css/main.6ed1312e.css",
+    "main.js": "/letra/static/js/main.36cbbe99.js",
+    "static/js/787.a6b4568d.chunk.js": "/letra/static/js/787.a6b4568d.chunk.js",
+    "index.html": "/letra/index.html",
+    "main.6ed1312e.css.map": "/letra/static/css/main.6ed1312e.css.map",
+    "main.36cbbe99.js.map": "/letra/static/js/main.36cbbe99.js.map",
+    "787.a6b4568d.chunk.js.map": "/letra/static/js/787.a6b4568d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed1312e.css",
-    "static/js/main.a0b033de.js"
+    "static/js/main.36cbbe99.js"
   ]
 }
