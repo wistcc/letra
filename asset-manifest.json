@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/letraapp.com/static/css/main.a05980a0.css",
+    "main.js": "/letraapp.com/static/js/main.444b69f1.js",
+    "static/js/787.a6b4568d.chunk.js": "/letraapp.com/static/js/787.a6b4568d.chunk.js",
+    "index.html": "/letraapp.com/index.html",
+    "main.a05980a0.css.map": "/letraapp.com/static/css/main.a05980a0.css.map",
+    "main.444b69f1.js.map": "/letraapp.com/static/js/main.444b69f1.js.map",
+    "787.a6b4568d.chunk.js.map": "/letraapp.com/static/js/787.a6b4568d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a05980a0.css",
+    "static/js/main.444b69f1.js"
+  ]
+}
