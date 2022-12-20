@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/letrapp.com/static/css/main.6ed1312e.css",
-    "main.js": "/letrapp.com/static/js/main.b58b7159.js",
-    "static/js/787.a6b4568d.chunk.js": "/letrapp.com/static/js/787.a6b4568d.chunk.js",
-    "index.html": "/letrapp.com/index.html",
-    "main.6ed1312e.css.map": "/letrapp.com/static/css/main.6ed1312e.css.map",
-    "main.b58b7159.js.map": "/letrapp.com/static/js/main.b58b7159.js.map",
-    "787.a6b4568d.chunk.js.map": "/letrapp.com/static/js/787.a6b4568d.chunk.js.map"
+    "main.css": "/letraapp.com/static/css/main.6ed1312e.css",
+    "main.js": "/letraapp.com/static/js/main.0bae2874.js",
+    "static/js/787.a6b4568d.chunk.js": "/letraapp.com/static/js/787.a6b4568d.chunk.js",
+    "index.html": "/letraapp.com/index.html",
+    "main.6ed1312e.css.map": "/letraapp.com/static/css/main.6ed1312e.css.map",
+    "main.0bae2874.js.map": "/letraapp.com/static/js/main.0bae2874.js.map",
+    "787.a6b4568d.chunk.js.map": "/letraapp.com/static/js/787.a6b4568d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed1312e.css",
-    "static/js/main.b58b7159.js"
+    "static/js/main.0bae2874.js"
   ]
 }
