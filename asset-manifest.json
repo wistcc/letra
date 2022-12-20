@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/letra/static/css/main.6ed1312e.css",
-    "main.js": "/letra/static/js/main.36cbbe99.js",
-    "static/js/787.a6b4568d.chunk.js": "/letra/static/js/787.a6b4568d.chunk.js",
-    "index.html": "/letra/index.html",
-    "main.6ed1312e.css.map": "/letra/static/css/main.6ed1312e.css.map",
-    "main.36cbbe99.js.map": "/letra/static/js/main.36cbbe99.js.map",
-    "787.a6b4568d.chunk.js.map": "/letra/static/js/787.a6b4568d.chunk.js.map"
+    "main.css": "/letrapp.com/static/css/main.6ed1312e.css",
+    "main.js": "/letrapp.com/static/js/main.b58b7159.js",
+    "static/js/787.a6b4568d.chunk.js": "/letrapp.com/static/js/787.a6b4568d.chunk.js",
+    "index.html": "/letrapp.com/index.html",
+    "main.6ed1312e.css.map": "/letrapp.com/static/css/main.6ed1312e.css.map",
+    "main.b58b7159.js.map": "/letrapp.com/static/js/main.b58b7159.js.map",
+    "787.a6b4568d.chunk.js.map": "/letrapp.com/static/js/787.a6b4568d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed1312e.css",
-    "static/js/main.36cbbe99.js"
+    "static/js/main.b58b7159.js"
   ]
 }
